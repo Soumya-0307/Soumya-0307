@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumya-0307
+- 👋 Hi, I’m Soumya Hegde
 - 👀 I’m interested in frontend developments
 - 🌱 I’m currently learning MCA in Dayanandha Sagar College of Engineering
 - 💞️ I’m looking to collaborate on software developments
